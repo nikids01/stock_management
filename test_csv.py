@@ -39,8 +39,5 @@ with open(stocks_filepath, encoding="UTF-8", mode="r") as stocks_file:
             print("Невалидный тип данных")
 
 
-# with open(items_filepath, encoding="UTF-8", mode="r") as items_file:
-#     items = csv.DictReader(items_file)
-#     print("Итемс: ")
-#     for item in items:
-#         print(item)
+def add():
+    pass
